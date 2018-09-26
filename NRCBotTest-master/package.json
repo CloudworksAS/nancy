@@ -1,0 +1,23 @@
+{
+  "name": "CW",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "superagent": "^1.8.3",
+    "request": "^2.81.0",
+    "tedious": "1.9.0",
+    "mssql": "4.0.4",
+    "debug": "0.0.1"
+  }, 
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "dotenv": "^2.0.0",
+    "eslint": "^2.7.0",
+    "eslint-config-airbnb": "^7.0.0",
+    "eslint-plugin-jsx-a11y": "^0.6.2",
+    "eslint-plugin-react": "^4.3.0"
+  }
+}
